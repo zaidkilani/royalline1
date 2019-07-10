@@ -7,3 +7,8 @@
 	path = odoo/odoo
 	url = git@github.com:odoo/odoo.git
 	branch = 12.0
+
+[submodule "zaidkilani/royalline-addons1"]
+	path = zaidkilani/royalline-addons1
+	url = git@github.com:zaidkilani/royalline-addons.git
+	branch = master
