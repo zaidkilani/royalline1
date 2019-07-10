@@ -17,3 +17,8 @@
 	path = zaidkilani/royalline-addons0
 	url = git@github.com:zaidkilani/royalline-addons.git
 	branch = master
+
+[submodule "zaidkilani/royalline-addons2"]
+	path = zaidkilani/royalline-addons2
+	url = git@github.com:zaidkilani/royalline-addons.git
+	branch = master
